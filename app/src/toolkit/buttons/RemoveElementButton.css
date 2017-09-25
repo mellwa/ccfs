@@ -1,0 +1,21 @@
+.remove-element-btn {
+    font-size: 1.5em;
+    cursor: pointer;
+    text-align: center;
+    transition: 0.4s;
+}
+
+.remove-element-btn:hover {
+    animation: spin 2s;
+    font-size: 1.6em;
+}
+
+.remove-element-btn:active {
+    font-size: 1.7em;
+}
+
+@-webkit-keyframes spin {
+    100% {
+        -webkit-transform: rotate(180deg);
+    }
+}

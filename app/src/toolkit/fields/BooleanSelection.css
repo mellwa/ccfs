@@ -1,0 +1,9 @@
+.boolean-selection-button-tool-bar {
+    display: inline-flex;
+    margin-left: 5%;
+}
+
+.boolean-selection-container {
+    height: 12%;
+    width: 100%;
+}

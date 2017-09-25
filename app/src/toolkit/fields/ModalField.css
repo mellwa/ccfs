@@ -1,0 +1,13 @@
+.modal-field {
+    top: 15%;
+    max-height: 60%;
+    overflow-y: auto;
+}
+
+.modal-title {
+    display: inline;
+}
+
+.modal-close-btn {
+    float: right;
+}

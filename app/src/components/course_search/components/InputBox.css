@@ -1,0 +1,10 @@
+.input-form-control {
+    width: 50vw;
+    border-width: 2px;
+    display: inline-block;
+}
+
+#input-box-label {
+    font-size: larger;
+    margin-right: 5vw;
+}

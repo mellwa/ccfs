@@ -1,0 +1,7 @@
+#course-list-container {
+    width: 96vw;
+    height: 70vh;
+    background-color: lightskyblue;
+    position: absolute;
+    left: 2%;
+}

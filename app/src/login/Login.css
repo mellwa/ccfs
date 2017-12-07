@@ -1,0 +1,20 @@
+#login {
+    height: 4vh;
+    width: 5vw;
+    font-size: larger;
+    display: inline-block;
+    position: absolute;
+    right: 2vw;
+    margin-top: 1vh;
+    border: 1px solid white;
+    user-select: none;
+}
+
+#login:hover {
+    cursor: pointer;
+}
+
+#login:active {
+    background-color: white;
+    opacity: 1;
+}

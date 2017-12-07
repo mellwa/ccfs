@@ -1,0 +1,20 @@
+#course-search {
+    height: 30vh;
+    width: 100vw;
+    background-color: lightskyblue;
+    text-align: center;
+    padding-top: 8vh;
+    font-size: 6vh;
+    cursor: pointer;
+    transition: 0.2s;
+    font-family: cursive;
+}
+
+#course-search:hover {
+    background-color: gray;
+    font-size: 7vh;
+}
+
+#course-search:active{
+    font-size: 8vh;
+}

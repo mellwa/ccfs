@@ -1,0 +1,20 @@
+#study-notes {
+    height: 30vh;
+    width: 100vw;
+    background-color: gainsboro;
+    text-align: center;
+    font-family: Charter;
+    padding-top: 8vh;
+    font-size: 6vh;
+    cursor: pointer;
+    transition: 0.2s;
+}
+
+#study-notes:hover {
+    font-size: 7vh;
+    background-color: gray;
+}
+
+#study-notes:active {
+    font-size: 8vh;
+}

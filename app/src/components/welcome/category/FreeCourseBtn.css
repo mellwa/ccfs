@@ -1,0 +1,20 @@
+#free-course {
+    height: 30vh;
+    width: 100vw;
+    background-color: cornsilk;
+    text-align: center;
+    font-family: cursive;
+    padding-top: 8vh;
+    font-size: 6vh;
+    cursor: pointer;
+    transition: 0.2s;
+}
+
+#free-course:hover {
+    background-color: gray;
+    font-size: 7vh;
+}
+
+#free-course:active {
+    font-size: 8vh;
+}
